@@ -7,8 +7,8 @@
 	path = components/esptool_py/esptool
 	url = ../../espressif/esptool.git
 
-[submodule "components/esp32-cam"]
-        path = components/esp32-cam
+[submodule "components/esp32-camera"]
+        path = components/esp32-camera
         url = ../../espressif/esp32-camera.git
 
 [submodule "components/bt/controller/lib_esp32"]
